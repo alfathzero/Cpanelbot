@@ -1,0 +1,3663 @@
+{
+  "users": {
+    "1221536431": {
+      "role": "reseller",
+      "panel_count": 0,
+      "reseller_limit": {
+        "count": 10,
+        "expire_date": null,
+        "added_at": "2026-04-21T14:58:58.699Z",
+        "added_by": "6525450582"
+      }
+    },
+    "1412280896": {
+      "role": "premium",
+      "panel_count": 2
+    },
+    "1487139095": {
+      "role": "premium",
+      "panel_count": 2
+    },
+    "6525450582": {
+      "role": "owner",
+      "panel_count": 12,
+      "referral_code": "REF450582PY1",
+      "blacklisted": false
+    },
+    "8656447208": {
+      "role": "owner",
+      "panel_count": 2,
+      "referral_code": "REF447208YPU",
+      "trial_used": true,
+      "trial_at": "2026-04-20T10:47:38.049Z"
+    },
+    "5651646038": {
+      "role": "owner",
+      "panel_count": 6
+    },
+    "7075691001": {
+      "role": "owner",
+      "panel_count": 2,
+      "reseller_limit": {
+        "count": 10,
+        "expire_date": null,
+        "added_at": "2026-04-23T00:28:58.325Z",
+        "added_by": "8289460864"
+      }
+    },
+    "7980031318": {
+      "role": "premium",
+      "panel_count": 1
+    },
+    "6366597862": {
+      "role": "premium",
+      "panel_count": 1
+    },
+    "7221821145": {
+      "role": "premium",
+      "panel_count": 2
+    },
+    "7754636730": {
+      "role": "premium",
+      "panel_count": 3
+    },
+    "8647327867": {
+      "role": "premium",
+      "panel_count": 1
+    },
+    "8352685799": {
+      "role": "reseller",
+      "panel_count": 1,
+      "reseller_limit": {
+        "count": 9,
+        "expire_date": null,
+        "added_at": "2026-04-20T11:08:59.715Z",
+        "added_by": "6525450582"
+      }
+    },
+    "8171059749": {
+      "role": "premium",
+      "panel_count": 1,
+      "referral_code": "REF059749CBP"
+    },
+    "6698713215": {
+      "role": "reseller",
+      "panel_count": 1,
+      "reseller_limit": {
+        "count": 9,
+        "expire_date": null,
+        "added_at": "2026-04-20T11:17:56.834Z",
+        "added_by": "6525450582"
+      }
+    },
+    "6846732844": {
+      "role": "reseller",
+      "panel_count": 2,
+      "reseller_limit": {
+        "count": 8,
+        "expire_date": null,
+        "added_at": "2026-04-20T11:41:19.439Z",
+        "added_by": "6525450582"
+      },
+      "referral_code": "REF732844AJZ"
+    },
+    "8693584949": {
+      "role": "owner",
+      "panel_count": 8,
+      "referral_code": "REF584949GQI"
+    },
+    "7747315822": {
+      "role": "owner",
+      "panel_count": 1
+    },
+    "8752045472": {
+      "role": "premium",
+      "panel_count": 3
+    },
+    "7904503187": {
+      "role": "premium",
+      "panel_count": 6,
+      "referral_code": "REF503187N0Z"
+    },
+    "7396379188": {
+      "role": "premium",
+      "panel_count": 1
+    },
+    "7156410234": {
+      "role": "reseller",
+      "panel_count": 1,
+      "reseller_limit": {
+        "count": 49,
+        "expire_date": null,
+        "added_at": "2026-04-20T13:29:11.859Z",
+        "added_by": "6525450582"
+      }
+    },
+    "5249047859": {
+      "role": "premium",
+      "panel_count": 2
+    },
+    "7442681348": {
+      "role": "premium",
+      "panel_count": 3
+    },
+    "8289460864": {
+      "role": "owner",
+      "panel_count": 3,
+      "referral_code": "REF460864GW2"
+    },
+    "8292360182": {
+      "role": "owner",
+      "panel_count": 0
+    },
+    "6658225160": {
+      "role": "reseller",
+      "panel_count": 2,
+      "reseller_limit": {
+        "count": 8,
+        "expire_date": null,
+        "added_at": "2026-04-21T13:20:15.939Z",
+        "added_by": "6525450582"
+      }
+    },
+    "7605597547": {
+      "role": "owner",
+      "panel_count": 2,
+      "referral_code": "REF597547IYC"
+    },
+    "8477074154": {
+      "role": "reseller",
+      "panel_count": 2,
+      "reseller_limit": {
+        "count": 8,
+        "expire_date": null,
+        "added_at": "2026-04-22T10:53:45.185Z",
+        "added_by": "6525450582"
+      }
+    },
+    "8554692306": {
+      "role": "premium",
+      "panel_count": 0
+    },
+    "6639287870": {
+      "role": "reseller",
+      "panel_count": 0,
+      "reseller_limit": {
+        "count": 10,
+        "expire_date": null,
+        "added_at": "2026-04-23T07:54:18.723Z",
+        "added_by": "6525450582"
+      }
+    },
+    "8738082178": {
+      "role": "reseller",
+      "panel_count": 0,
+      "reseller_limit": {
+        "count": 2,
+        "expire_date": null,
+        "added_at": "2026-04-23T10:38:17.735Z",
+        "added_by": "8289460864"
+      }
+    },
+    "8782785006": {
+      "role": "premium",
+      "panel_count": 0
+    },
+    "8128382065": {
+      "role": "reseller",
+      "panel_count": 0,
+      "reseller_limit": {
+        "count": 10,
+        "expire_date": null,
+        "added_at": "2026-04-23T14:12:42.218Z",
+        "added_by": "5651646038"
+      }
+    }
+  },
+  "reseller_panels": {
+    "1412280896": [
+      {
+        "name": "Panel-perzxly",
+        "server_id": 45,
+        "server_identifier": "cf2efe77",
+        "username": "perzxly",
+        "email": "perzxly_rxe7b@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:20:50.495Z",
+        "expire_date": "2026-05-20T12:20:50.495Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-relzz",
+        "server_id": 49,
+        "server_identifier": "6449348c",
+        "username": "relzz",
+        "email": "relzz_1jl9z@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:47:54.342Z",
+        "expire_date": "2026-05-20T12:47:54.342Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "1487139095": [
+      {
+        "name": "Panel-ramsez",
+        "server_id": 33,
+        "server_identifier": "16f4b6aa",
+        "username": "ramsez",
+        "email": "ramsez_9955r@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:35:15.215Z",
+        "expire_date": "2026-05-20T11:35:15.215Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-ramsezz",
+        "server_id": 199,
+        "server_identifier": "4f5f87ad",
+        "username": "ramsezz",
+        "email": "ramsezz_0ofis@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T23:20:19.820Z",
+        "expire_date": "2026-05-21T23:20:19.820Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "6525450582": [
+      {
+        "name": "Panel-tssssss",
+        "server_id": 3,
+        "server_identifier": "b491bec8",
+        "username": "tssssss",
+        "email": "tssssss_wlezc@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:30:58.300Z",
+        "expire_date": "2026-05-20T10:30:58.300Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-alwan",
+        "server_id": 4,
+        "server_identifier": "22e28eee",
+        "username": "alwan",
+        "email": "alwan_160ez@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:41:38.898Z",
+        "expire_date": "2026-05-20T10:41:38.898Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-azkax",
+        "server_id": 5,
+        "server_identifier": "2b327b9c",
+        "username": "azkax",
+        "email": "azkax_l5d6d@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:42:55.048Z",
+        "expire_date": "2026-05-20T10:42:55.048Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-renzy",
+        "server_id": 6,
+        "server_identifier": "a02e8f6d",
+        "username": "renzy",
+        "email": "renzy_rquvk@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "5 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:44:10.667Z",
+        "expire_date": "2026-05-20T10:44:10.667Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-resihan",
+        "server_id": 7,
+        "server_identifier": "3c9d6aa8",
+        "username": "resihan",
+        "email": "resihan_rlipm@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "4 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:45:57.926Z",
+        "expire_date": "2026-05-20T10:45:57.926Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-gacorbanget",
+        "server_id": 8,
+        "server_identifier": "b5680d42",
+        "username": "gacorbanget",
+        "email": "gacorbanget_v32t4@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "5 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:47:21.336Z",
+        "expire_date": "2026-05-20T10:47:21.336Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-junzzzxseccc",
+        "server_id": 10,
+        "server_identifier": "ed11f79c",
+        "username": "junzzzxseccc",
+        "email": "junzzzxseccc_9xvkh@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "7 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:48:55.195Z",
+        "expire_date": "2026-05-20T10:48:55.195Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-kyotoo",
+        "server_id": 11,
+        "server_identifier": "e843bfda",
+        "username": "kyotoo",
+        "email": "kyotoo_2oqbw@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "7 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:49:26.607Z",
+        "expire_date": "2026-05-20T10:49:26.607Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-sasakiii",
+        "server_id": 12,
+        "server_identifier": "ccef82de",
+        "username": "sasakiii",
+        "email": "sasakiii_wtil5@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:49:56.415Z",
+        "expire_date": "2026-05-20T10:49:56.415Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-run",
+        "server_id": 13,
+        "server_identifier": "1439b33a",
+        "username": "run",
+        "email": "run_wuj0i@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "1 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:54:05.221Z",
+        "expire_date": "2026-05-20T10:54:05.221Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-rully",
+        "server_id": 76,
+        "server_identifier": "15e2e128",
+        "username": "rully",
+        "email": "rully_5qugd@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "3 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T03:30:56.140Z",
+        "expire_date": "2026-05-21T03:30:56.140Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-tesadminganteng",
+        "server_id": 2,
+        "server_identifier": "28c7814a",
+        "username": "tesadminganteng",
+        "email": "tesadminganteng_xaiil@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T13:27:47.064Z",
+        "expire_date": "2026-05-23T13:27:47.064Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8656447208": [
+      {
+        "name": "Panel-kalzz",
+        "server_id": 9,
+        "server_identifier": "5dd161e4",
+        "username": "kalzz",
+        "email": "kalzz_s5bbt@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Trial",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": true,
+        "created_at": "2026-04-20T10:47:38.044Z",
+        "expire_date": "2026-04-21T10:47:38.044Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-kalzzz",
+        "server_id": 14,
+        "server_identifier": "0f07a724",
+        "username": "kalzzz",
+        "email": "kalzzz_lyadm@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:55:31.558Z",
+        "expire_date": "2026-06-19T10:55:31.558Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7075691001": [
+      {
+        "name": "Panel-airamlbb",
+        "server_id": 15,
+        "server_identifier": "f867e28f",
+        "username": "airamlbb",
+        "email": "airamlbb_q4848@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:57:17.486Z",
+        "expire_date": "2026-05-20T10:57:17.486Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-airamlbb",
+        "server_id": 14,
+        "server_identifier": "c4603f69",
+        "username": "airamlbb",
+        "email": "airamlbb_tzofi@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T15:13:31.740Z",
+        "expire_date": "2026-05-23T15:13:31.740Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "5651646038": [
+      {
+        "name": "Panel-aldi",
+        "server_id": 16,
+        "server_identifier": "9e64f1e7",
+        "username": "aldi",
+        "email": "aldi_c82o3@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T10:57:23.094Z",
+        "expire_date": "2026-05-20T10:57:23.094Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-asepp",
+        "server_id": 195,
+        "server_identifier": "8708f617",
+        "username": "asepp",
+        "email": "asepp_k7rof@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T22:44:53.628Z",
+        "expire_date": "2026-05-21T22:44:53.628Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-apkbug",
+        "server_id": 4,
+        "server_identifier": "9b292250",
+        "username": "apkbug",
+        "email": "apkbug_sps1m@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T13:37:31.598Z",
+        "expire_date": "2026-05-23T13:37:31.598Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-aldii",
+        "server_id": 6,
+        "server_identifier": "fff6a1c2",
+        "username": "aldii",
+        "email": "aldii_149fn@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T13:42:12.268Z",
+        "expire_date": "2026-05-23T13:42:12.268Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-fadill",
+        "server_id": 7,
+        "server_identifier": "c294588b",
+        "username": "fadill",
+        "email": "fadill_svubt@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T13:48:38.762Z",
+        "expire_date": "2026-05-23T13:48:38.762Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-foryou",
+        "server_id": 8,
+        "server_identifier": "687a1704",
+        "username": "foryou",
+        "email": "foryou_khrrl@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T14:00:51.515Z",
+        "expire_date": "2026-05-23T14:00:51.515Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7980031318": [
+      {
+        "name": "Panel-bray",
+        "server_id": 17,
+        "server_identifier": "0f52ddaa",
+        "username": "bray",
+        "email": "bray_qimmo@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:01:52.764Z",
+        "expire_date": "2026-05-20T11:01:52.764Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "6366597862": [
+      {
+        "name": "Panel-maulx",
+        "server_id": 22,
+        "server_identifier": "a3301f19",
+        "username": "maulx",
+        "email": "maulx_lkcr5@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:04:39.847Z",
+        "expire_date": "2026-05-20T11:04:39.847Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8647327867": [
+      {
+        "name": "Panel-zen",
+        "server_id": 24,
+        "server_identifier": "92d5fdab",
+        "username": "zen",
+        "email": "zen_e4utp@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:06:15.660Z",
+        "expire_date": "2026-05-20T11:06:15.660Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8352685799": [
+      {
+        "name": "Panel-veltrixofficial",
+        "server_id": 25,
+        "server_identifier": "37fc1d7c",
+        "username": "veltrixofficial",
+        "email": "veltrixofficial_ux8uq@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:09:27.135Z",
+        "expire_date": "2026-05-20T11:09:27.135Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7754636730": [
+      {
+        "name": "Panel-niellyn",
+        "server_id": 26,
+        "server_identifier": "66a344de",
+        "username": "niellyn",
+        "email": "niellyn_3vez3@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:12:03.748Z",
+        "expire_date": "2026-05-20T11:12:03.748Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-garansianell",
+        "server_id": 27,
+        "server_identifier": "7cbf994a",
+        "username": "garansianell",
+        "email": "garansianell_brfij@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "1 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:13:25.970Z",
+        "expire_date": "2026-05-20T11:13:25.970Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-panelgarr2",
+        "server_id": 28,
+        "server_identifier": "81956a5d",
+        "username": "panelgarr2",
+        "email": "panelgarr2_qvskr@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:15:20.343Z",
+        "expire_date": "2026-05-20T11:15:20.343Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8171059749": [
+      {
+        "name": "Panel-balztzy",
+        "server_id": 29,
+        "server_identifier": "5fda7b86",
+        "username": "balztzy",
+        "email": "balztzy_uvup2@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:18:12.008Z",
+        "expire_date": "2026-05-20T11:18:12.008Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "6846732844": [
+      {
+        "name": "Panel-sakasuki",
+        "server_id": 40,
+        "server_identifier": "6b7ab33a",
+        "username": "sakasuki",
+        "email": "sakasuki_vghsf@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:48:54.078Z",
+        "expire_date": "2026-05-20T11:48:54.078Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-wira",
+        "server_id": 42,
+        "server_identifier": "249183a0",
+        "username": "wira",
+        "email": "wira_2vwx8@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:52:55.152Z",
+        "expire_date": "2026-05-20T11:52:55.152Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8693584949": [
+      {
+        "name": "Panel-skyrixz_mode_santuy",
+        "server_id": 41,
+        "server_identifier": "0da8ad13",
+        "username": "skyrixz_mode_santuy",
+        "email": "skyrixz_mode_santuy_zuy6v@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:49:32.543Z",
+        "expire_date": "2026-05-20T11:49:32.543Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Bento",
+        "server_id": 126,
+        "server_identifier": "e88be82e",
+        "username": "bento",
+        "email": "bento_h2wez@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "2 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T07:06:45.853Z",
+        "expire_date": "2026-05-21T07:06:45.853Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-lixpanel",
+        "server_id": 161,
+        "server_identifier": "6a404e07",
+        "username": "lixpanel",
+        "email": "lixpanel_gvi5y@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T11:56:01.157Z",
+        "expire_date": "2026-05-21T11:56:01.157Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-beni",
+        "server_id": 170,
+        "server_identifier": "a59bf1f0",
+        "username": "beni",
+        "email": "beni_3gwbt@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "1 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T13:14:56.819Z",
+        "expire_date": "2026-05-21T13:14:56.819Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-aruel",
+        "server_id": 209,
+        "server_identifier": "9ca051a1",
+        "username": "aruel",
+        "email": "aruel_j5uos@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T04:00:45.260Z",
+        "expire_date": "2026-05-22T04:00:45.260Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-kayes",
+        "server_id": 214,
+        "server_identifier": "a7345280",
+        "username": "kayes",
+        "email": "kayes_nj2yk@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T09:20:49.166Z",
+        "expire_date": "2026-05-22T09:20:49.166Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-botcellastore",
+        "server_id": 215,
+        "server_identifier": "c547fc96",
+        "username": "botcellastore",
+        "email": "botcellastore_e6dsv@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T09:26:33.848Z",
+        "expire_date": "2026-05-22T09:26:33.848Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-rizzz_aja",
+        "server_id": 237,
+        "server_identifier": "f04d1de2",
+        "username": "rizzz_aja",
+        "email": "rizzz_aja_9w6h2@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "server_num": 1,
+        "created_at": "2026-04-23T06:01:58.145Z",
+        "expire_date": "2026-05-23T06:01:58.145Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7747315822": [
+      {
+        "name": "Panel-putraadp",
+        "server_id": 43,
+        "server_identifier": "b30dd85f",
+        "username": "putraadp",
+        "email": "putraadp_d1mzy@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T11:53:27.009Z",
+        "expire_date": "2026-05-20T11:53:27.009Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7904503187": [
+      {
+        "name": "Panel-racunberulah",
+        "server_id": 46,
+        "server_identifier": "29d66853",
+        "username": "racunberulah",
+        "email": "racunberulah_0ih5k@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:40:19.297Z",
+        "expire_date": "2026-05-20T12:40:19.297Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-racunberulah2",
+        "server_id": 53,
+        "server_identifier": "138ce024",
+        "username": "racunberulah2",
+        "email": "racunberulah2_6jrbm@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:56:20.102Z",
+        "expire_date": "2026-05-20T12:56:20.102Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-racunberulahjpm",
+        "server_id": 69,
+        "server_identifier": "bb979429",
+        "username": "racunberulahjpm",
+        "email": "racunberulahjpm_3wl86@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T16:31:04.436Z",
+        "expire_date": "2026-05-20T16:31:04.436Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-vall",
+        "server_id": 124,
+        "server_identifier": "534bb54a",
+        "username": "vall",
+        "email": "vall_rvsvs@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T06:59:24.023Z",
+        "expire_date": "2026-05-21T06:59:24.023Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-galll",
+        "server_id": 213,
+        "server_identifier": "328cb07e",
+        "username": "galll",
+        "email": "galll_wgpjv@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T09:18:47.197Z",
+        "expire_date": "2026-05-22T09:18:47.197Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-racunberulahserverdua",
+        "server_id": 13,
+        "server_identifier": "2ab9b23d",
+        "username": "racunberulahserverdua",
+        "email": "racunberulahserverdua_brazr@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T14:53:49.193Z",
+        "expire_date": "2026-05-23T14:53:49.193Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8752045472": [
+      {
+        "name": "Panel-safetrack552663",
+        "server_id": 47,
+        "server_identifier": "1764dc7c",
+        "username": "safetrack552663",
+        "email": "safetrack552663_jzhak@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:42:47.187Z",
+        "expire_date": "2026-05-20T12:42:47.187Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-freepanel",
+        "server_id": 50,
+        "server_identifier": "8ec37f13",
+        "username": "freepanel",
+        "email": "freepanel_rcbz3@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "1 GB",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:48:32.020Z",
+        "expire_date": "2026-05-20T12:48:32.020Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-safetracknomor1",
+        "server_id": 103,
+        "server_identifier": "dad8cfb2",
+        "username": "safetracknomor1",
+        "email": "safetracknomor1_qwkbl@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T05:52:16.035Z",
+        "expire_date": "2026-05-21T05:52:16.035Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7396379188": [
+      {
+        "name": "Panel-bot_nya_yang_mana",
+        "server_id": 48,
+        "server_identifier": "7a0c80bd",
+        "username": "bot_nya_yang_mana",
+        "email": "bot_nya_yang_mana_43uj3@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T12:43:10.460Z",
+        "expire_date": "2026-05-20T12:43:10.460Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7156410234": [
+      {
+        "name": "Panel-di_pv_apa_dsini",
+        "server_id": 58,
+        "server_identifier": "a6979467",
+        "username": "di_pv_apa_dsini",
+        "email": "di_pv_apa_dsini_bv7no@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T13:32:55.961Z",
+        "expire_date": "2026-05-20T13:32:55.961Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "5249047859": [
+      {
+        "name": "Panel-parullkun",
+        "server_id": 70,
+        "server_identifier": "ea13f397",
+        "username": "parullkun",
+        "email": "parullkun_3jq62@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-20T16:50:42.557Z",
+        "expire_date": "2026-05-20T16:50:42.557Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-parull1",
+        "server_id": 232,
+        "server_identifier": "ffb3bb85",
+        "username": "parull1",
+        "email": "parull1_d21rt@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "server_num": 1,
+        "created_at": "2026-04-23T04:00:08.085Z",
+        "expire_date": "2026-05-23T04:00:08.085Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7442681348": [
+      {
+        "name": "botcellastore",
+        "server_id": 98,
+        "server_identifier": "ab39a61c",
+        "username": "cellav1",
+        "email": "cellav1_yk6zd@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T05:14:48.669Z",
+        "expire_date": "2026-05-21T05:14:48.669Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "botcellav1",
+        "server_id": 208,
+        "server_identifier": "68f7ba85",
+        "username": "cellastore",
+        "email": "cellastore_eqm6m@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T03:12:17.056Z",
+        "expire_date": "2026-05-22T03:12:17.056Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-cellaphine",
+        "server_id": 3,
+        "server_identifier": "851396f4",
+        "username": "cellaphine",
+        "email": "cellaphine_11wtq@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T13:32:51.433Z",
+        "expire_date": "2026-05-23T13:32:51.433Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8289460864": [
+      {
+        "name": "Panel-vourtix",
+        "server_id": 106,
+        "server_identifier": "cf743498",
+        "username": "vourtix",
+        "email": "vourtix_yv6mo@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T06:09:56.902Z",
+        "expire_date": "2026-05-21T06:09:56.902Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-tetris",
+        "server_id": 200,
+        "server_identifier": "5a6e5d29",
+        "username": "tetris",
+        "email": "tetris_oeeal@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T23:46:21.246Z",
+        "expire_date": "2026-05-21T23:46:21.246Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-because",
+        "server_id": 224,
+        "server_identifier": "cb04f0a3",
+        "username": "because",
+        "email": "because_rz5x4@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-22T11:14:59.973Z",
+        "expire_date": "2026-05-22T11:14:59.973Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "6658225160": [
+      {
+        "name": "Panel-razaa",
+        "server_id": 171,
+        "server_identifier": "66718105",
+        "username": "razaa",
+        "email": "razaa_vkgq9@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Pyton",
+        "egg": "python generic",
+        "is_trial": false,
+        "created_at": "2026-04-21T13:22:26.721Z",
+        "expire_date": "2026-05-21T13:22:26.721Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-rak",
+        "server_id": 173,
+        "server_identifier": "5076dc91",
+        "username": "rak",
+        "email": "rak_9dkwp@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "created_at": "2026-04-21T13:28:27.513Z",
+        "expire_date": "2026-05-21T13:28:27.513Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7605597547": [
+      {
+        "name": "Panel-reyyzv123",
+        "server_id": 191,
+        "server_identifier": "3432e4f4",
+        "username": "reyyzv123",
+        "email": "reyyzv123_w52gm@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "Unlimited",
+        "nest": "Minecraft",
+        "egg": "Sponge (SpongeVanilla)",
+        "is_trial": false,
+        "created_at": "2026-04-21T16:32:38.402Z",
+        "expire_date": "2026-05-21T16:32:38.402Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-reytaxv123",
+        "server_id": 10,
+        "server_identifier": "953135b5",
+        "username": "reytaxv123",
+        "email": "reytaxv123_1ey1y@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T14:06:53.621Z",
+        "expire_date": "2026-05-23T14:06:53.621Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "8477074154": [
+      {
+        "name": "Panel-star",
+        "server_id": 221,
+        "server_identifier": "ce97ddb2",
+        "username": "star",
+        "email": "star_qfvxw@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Minecraft",
+        "egg": "Paper",
+        "is_trial": false,
+        "created_at": "2026-04-22T10:59:00.120Z",
+        "expire_date": "2026-05-22T10:59:00.120Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-khyx",
+        "server_id": 229,
+        "server_identifier": "cd000539",
+        "username": "khyx",
+        "email": "khyx_rj8dz@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Pyton",
+        "egg": "python generic",
+        "is_trial": false,
+        "server_num": 1,
+        "created_at": "2026-04-23T03:54:19.906Z",
+        "expire_date": "2026-05-23T03:54:19.906Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "6698713215": [
+      {
+        "name": "Panel-zypher",
+        "server_id": 234,
+        "server_identifier": "2b120765",
+        "username": "zypher",
+        "email": "zypher_nan8y@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot WhatsapdanTelegram",
+        "egg": "Bot Whatsap/Telegram",
+        "is_trial": false,
+        "server_num": 1,
+        "created_at": "2026-04-23T05:44:59.761Z",
+        "expire_date": "2026-05-23T05:44:59.761Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ],
+    "7221821145": [
+      {
+        "name": "Panel-jpm_vinnz",
+        "server_id": 9,
+        "server_identifier": "d71c71fe",
+        "username": "jpm_vinnz",
+        "email": "jpm_vinnz_0m3t6@alfa.id",
+        "panel_type": "admin",
+        "plan_name": "1 GB",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T14:04:37.514Z",
+        "expire_date": "2026-05-23T14:04:37.514Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      },
+      {
+        "name": "Panel-jpmvinnnz",
+        "server_id": 11,
+        "server_identifier": "f0747bcf",
+        "username": "jpmvinnnz",
+        "email": "jpmvinnnz_nd0m8@alfa.id",
+        "panel_type": "biasa",
+        "plan_name": "Unlimited",
+        "nest": "Bot aja",
+        "egg": "Buat all bot",
+        "is_trial": false,
+        "server_num": 2,
+        "created_at": "2026-04-23T14:08:48.041Z",
+        "expire_date": "2026-05-23T14:08:48.041Z",
+        "expired": false,
+        "suspended": false,
+        "suspended_at": null,
+        "auto_renewal": true
+      }
+    ]
+  },
+  "started_users": {
+    "1102371751": {
+      "first_name": "P",
+      "username": "Riski_Reals",
+      "at": "2026-04-23T15:15:34.587Z"
+    },
+    "1221536431": {
+      "first_name": "la",
+      "username": "zylaxln",
+      "at": "2026-04-23T10:23:57.932Z"
+    },
+    "1412280896": {
+      "first_name": "𝙋𝙀𝙍𝙕𝙓𝙇𝙔 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇",
+      "username": "perzxlyoffc",
+      "at": "2026-04-22T09:37:23.244Z"
+    },
+    "1487139095": {
+      "first_name": "Ramsez || Jasa Setup Tmail Murmer",
+      "username": "El_aja02",
+      "at": "2026-04-22T18:10:59.371Z"
+    },
+    "8656447208": {
+      "first_name": "—͟͟͞͞ kalzIsHere",
+      "username": "kalzzz2",
+      "at": "2026-04-22T05:02:55.708Z"
+    },
+    "7075691001": {
+      "first_name": "⏤͟͟͞͞𝘙4 | 𝖠: 𝗁𝖾𝗅𝗅𝗈 𝗍𝗈𝗈, 𝗆𝗒 𝖽𝖾𝖺𝗋. 𝖸𝗈𝗎 𝖼𝗈𝗎𝗅𝖽 𝗁𝖺𝗏𝖾 𝗉𝗋𝖺𝗂𝗌𝖾𝖽 𝗆𝖾. 𝖡𝗒",
+      "last_name": "𝗍𝗁𝖾 𝗐𝖺𝗒, 𝖨 𝗅𝗈𝗏𝖾 𝗒𝗈𝗎 𝗆𝗈𝗋𝖾 𝖺𝗇𝖽 𝗆𝗈𝗋𝖾 𝖾𝖺𝖼𝗁 𝖽𝖺𝗒.",
+      "username": "airamlbb",
+      "at": "2026-04-23T15:12:37.402Z"
+    },
+    "6366597862": {
+      "first_name": "aveline",
+      "username": "raffx_09",
+      "at": "2026-04-20T11:03:23.818Z"
+    },
+    "6525450582": {
+      "first_name": "Nicelo",
+      "last_name": "Alfa ~ Ready Panel Legal",
+      "username": "ALFA21L",
+      "at": "2026-04-23T15:18:16.396Z"
+    },
+    "7221821145": {
+      "first_name": "𐙚⁺˖ ⸝⸝ 𝗒𝗈𝗅𝗅 𝗌𝗍𝗈𝗋𝖾 ⁺໒꒱ིྀ༝",
+      "username": "yollstoreww",
+      "at": "2026-04-23T14:06:59.270Z"
+    },
+    "5651646038": {
+      "first_name": "Fokus kuliah",
+      "username": "Muh4ldi",
+      "at": "2026-04-23T14:12:05.820Z"
+    },
+    "8289460864": {
+      "first_name": "Vourtix",
+      "username": "Vourtix47",
+      "at": "2026-04-23T10:41:28.026Z"
+    },
+    "7980031318": {
+      "first_name": "Rayenzz",
+      "username": "Rayenzz22",
+      "at": "2026-04-20T11:00:37.578Z"
+    },
+    "7754636730": {
+      "first_name": "onn's, open slr",
+      "username": "Kudusp",
+      "at": "2026-04-20T11:10:33.747Z"
+    },
+    "8647327867": {
+      "first_name": "زين أمانة",
+      "at": "2026-04-20T11:05:57.655Z"
+    },
+    "8171059749": {
+      "first_name": "⏤͟͟͞͞ 𝖵𝗌 | 𝗕𝗮𝗹𝘇𝗧𝘇𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 🛍",
+      "username": "BalzTzyOfficial",
+      "at": "2026-04-20T11:20:45.934Z"
+    },
+    "8693584949": {
+      "first_name": "SkyRixz",
+      "last_name": "Official",
+      "username": "SkyRixzofficial",
+      "at": "2026-04-23T10:27:45.087Z"
+    },
+    "6846732844": {
+      "first_name": "TZY",
+      "last_name": "SUKI",
+      "username": "gwimfind",
+      "at": "2026-04-22T05:36:57.036Z"
+    },
+    "7747315822": {
+      "first_name": "ρυтяαα",
+      "username": "putraaaoffc",
+      "at": "2026-04-20T11:53:10.461Z"
+    },
+    "7904503187": {
+      "first_name": "racun",
+      "last_name": "berulah",
+      "username": "raa_berulah",
+      "at": "2026-04-23T14:52:21.703Z"
+    },
+    "8752045472": {
+      "first_name": "@SafeTrack",
+      "username": "SafeTrack552663",
+      "at": "2026-04-20T12:41:50.195Z"
+    },
+    "7156410234": {
+      "first_name": "Gung",
+      "username": "Gungwlee",
+      "at": "2026-04-20T13:30:00.849Z"
+    },
+    "7442681348": {
+      "first_name": "cella",
+      "username": "cellaphine",
+      "at": "2026-04-23T13:32:06.089Z"
+    },
+    "8021702395": {
+      "first_name": "junz1337",
+      "username": "junzxsec",
+      "at": "2026-04-20T16:13:39.557Z"
+    },
+    "5249047859": {
+      "first_name": "Bocchiii",
+      "username": "parulkun",
+      "at": "2026-04-20T16:49:49.421Z"
+    },
+    "6698713215": {
+      "first_name": "𝐊𝐈𝐍𝐆𝐆 𝐙𝐘𝐏𝐇𝐄𝐑 😈 [ 𝐑𝐄𝐀𝐃𝐘 𝐁𝐀𝐒𝐄 𝐌𝐔𝐑𝐀𝐇 𝐊𝐄𝐂𝐄 𝐕𝐈𝐀 𝐓𝐄𝐋𝐄 𝐀𝐍𝐃 𝐕𝐈𝐀 𝐖𝐀 ]",
+      "username": "ZypherReal1",
+      "at": "2026-04-23T05:22:54.420Z"
+    },
+    "8419934816": {
+      "first_name": "Jessica",
+      "last_name": "Joy",
+      "at": "2026-04-21T07:02:08.635Z"
+    },
+    "8782785006": {
+      "first_name": "工作就行了",
+      "at": "2026-04-23T13:24:17.525Z"
+    },
+    "6658225160": {
+      "first_name": "ramaaaa",
+      "username": "ramfavyou",
+      "at": "2026-04-23T11:44:04.855Z"
+    },
+    "7605597547": {
+      "first_name": "☇𝙍𝙚𝙮𝙮𝙯𝙫 [𝗙𝗔𝗦𝗧 𝗥𝗘𝗦𝗣𝗢𝗡]",
+      "username": "Reyyzvstecu",
+      "at": "2026-04-23T14:38:47.745Z"
+    },
+    "8725015135": {
+      "first_name": "P U O Y",
+      "last_name": "V I U",
+      "at": "2026-04-22T01:08:22.656Z"
+    },
+    "8477074154": {
+      "first_name": "khyxxStur",
+      "last_name": "|| ready nokos😗",
+      "username": "khyxxSTR",
+      "at": "2026-04-23T03:49:59.233Z"
+    },
+    "7331597669": {
+      "first_name": "Sasaki",
+      "last_name": "CXS STAT",
+      "username": "SASAKICXSSTAT",
+      "at": "2026-04-22T16:09:36.301Z"
+    },
+    "8436338353": {
+      "first_name": "Iya",
+      "last_name": "Iya",
+      "username": "SASAKICXSSTAT1",
+      "at": "2026-04-22T16:28:06.415Z"
+    },
+    "6639287870": {
+      "first_name": "Reza",
+      "last_name": "Store",
+      "username": "rezastore_stok",
+      "at": "2026-04-23T10:33:51.366Z"
+    },
+    "8292360182": {
+      "first_name": "ayam",
+      "last_name": "ayam",
+      "username": "AYAMTMNSAYA",
+      "at": "2026-04-23T10:24:29.592Z"
+    },
+    "8738082178": {
+      "first_name": "Halo",
+      "last_name": "XT",
+      "at": "2026-04-23T12:19:40.663Z"
+    },
+    "8554692306": {
+      "first_name": "hengker",
+      "last_name": "wibu tzy",
+      "username": "HengkerWiibuTZY",
+      "at": "2026-04-23T13:16:52.927Z"
+    }
+  },
+  "vouchers": {},
+  "transactions": [
+    {
+      "userId": "7075691001",
+      "type": "Buat Panel",
+      "detail": "Panel-airamlbb | ID:14 | Unlimited",
+      "at": "2026-04-23T15:13:31.743Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "Panel-racunberulahserverdua | ID:13 | Unlimited",
+      "at": "2026-04-23T14:53:49.196Z"
+    },
+    {
+      "userId": "7221821145",
+      "type": "Buat Panel",
+      "detail": "Panel-jpmvinnnz | ID:11 | Unlimited",
+      "at": "2026-04-23T14:08:48.045Z"
+    },
+    {
+      "userId": "7605597547",
+      "type": "Buat Panel",
+      "detail": "Panel-reytaxv123 | ID:10 | Unlimited",
+      "at": "2026-04-23T14:06:53.624Z"
+    },
+    {
+      "userId": "7221821145",
+      "type": "Buat Panel",
+      "detail": "Panel-jpm_vinnz | ID:9 | 1 GB",
+      "at": "2026-04-23T14:04:37.516Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "Panel-foryou | ID:8 | Unlimited",
+      "at": "2026-04-23T14:00:51.518Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "Panel-fadill | ID:7 | Unlimited",
+      "at": "2026-04-23T13:48:38.769Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "Panel-aldii | ID:6 | Unlimited",
+      "at": "2026-04-23T13:42:12.271Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "Panel-apkbug | ID:4 | Unlimited",
+      "at": "2026-04-23T13:37:31.601Z"
+    },
+    {
+      "userId": "7442681348",
+      "type": "Buat Panel",
+      "detail": "Panel-cellaphine | ID:3 | Unlimited",
+      "at": "2026-04-23T13:32:51.436Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "Panel-tesadminganteng | ID:2 | Unlimited",
+      "at": "2026-04-23T13:27:47.068Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-rizzz_aja | ID:237 | Unlimited",
+      "at": "2026-04-23T06:01:58.148Z"
+    },
+    {
+      "userId": "6698713215",
+      "type": "Buat Panel",
+      "detail": "Panel-zypher | ID:234 | Unlimited",
+      "at": "2026-04-23T05:44:59.764Z"
+    },
+    {
+      "userId": "5249047859",
+      "type": "Buat Panel",
+      "detail": "Panel-parull1 | ID:232 | Unlimited",
+      "at": "2026-04-23T04:00:08.088Z"
+    },
+    {
+      "userId": "8477074154",
+      "type": "Buat Panel",
+      "detail": "Panel-khyx | ID:229 | Unlimited",
+      "at": "2026-04-23T03:54:19.909Z"
+    },
+    {
+      "userId": "8289460864",
+      "type": "Buat Panel",
+      "detail": "Panel-because | ID:224 | Unlimited",
+      "at": "2026-04-22T11:15:00.003Z"
+    },
+    {
+      "userId": "8477074154",
+      "type": "Buat Panel",
+      "detail": "Panel-star | ID:221 | Unlimited",
+      "at": "2026-04-22T10:59:00.141Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-botcellastore | ID:215 | Unlimited",
+      "at": "2026-04-22T09:26:33.857Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-kayes | ID:214 | Unlimited",
+      "at": "2026-04-22T09:20:49.171Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "Panel-galll | ID:213 | Unlimited",
+      "at": "2026-04-22T09:18:47.214Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-aruel | ID:209 | Unlimited",
+      "at": "2026-04-22T04:00:45.267Z"
+    },
+    {
+      "userId": "7442681348",
+      "type": "Buat Panel",
+      "detail": "Panel-cellastore | ID:208 | Unlimited",
+      "at": "2026-04-22T03:12:17.073Z"
+    },
+    {
+      "userId": "8289460864",
+      "type": "Buat Panel",
+      "detail": "Panel-tetris | ID:200 | Unlimited",
+      "at": "2026-04-21T23:46:21.250Z"
+    },
+    {
+      "userId": "1487139095",
+      "type": "Buat Panel",
+      "detail": "Panel-ramsezz | ID:199 | Unlimited",
+      "at": "2026-04-21T23:20:19.826Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "Panel-asepp | ID:195 | Unlimited",
+      "at": "2026-04-21T22:44:53.640Z"
+    },
+    {
+      "userId": "7605597547",
+      "type": "Buat Panel",
+      "detail": "Panel-reyyzv123 | ID:191 | Unlimited",
+      "at": "2026-04-21T16:32:38.411Z"
+    },
+    {
+      "userId": "6658225160",
+      "type": "Buat Panel",
+      "detail": "Panel-rak | ID:173 | Unlimited",
+      "at": "2026-04-21T13:28:27.517Z"
+    },
+    {
+      "userId": "6658225160",
+      "type": "Buat Panel",
+      "detail": "Panel-razaa | ID:171 | Unlimited",
+      "at": "2026-04-21T13:22:26.768Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-beni | ID:170 | 1 GB",
+      "at": "2026-04-21T13:14:56.823Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-lixpanel | ID:161 | Unlimited",
+      "at": "2026-04-21T11:56:01.192Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "Panel-bento | ID:126 | 2 GB",
+      "at": "2026-04-21T07:06:45.856Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "Panel-vall | ID:124 | Unlimited",
+      "at": "2026-04-21T06:59:24.031Z"
+    },
+    {
+      "userId": "8289460864",
+      "type": "Buat Panel",
+      "detail": "Panel-vourtix | ID:106 | Unlimited",
+      "at": "2026-04-21T06:09:56.905Z"
+    },
+    {
+      "userId": "8752045472",
+      "type": "Buat Panel",
+      "detail": "Panel-safetracknomor1 | ID:103 | Unlimited",
+      "at": "2026-04-21T05:52:16.040Z"
+    },
+    {
+      "userId": "7442681348",
+      "type": "Buat Panel",
+      "detail": "Panel-cellav1 | ID:98 | Unlimited",
+      "at": "2026-04-21T05:14:48.673Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "Panel-rully | ID:76 | 3 GB",
+      "at": "2026-04-21T03:30:56.144Z"
+    },
+    {
+      "userId": "5249047859",
+      "type": "Buat Panel",
+      "detail": "ID:70 | Unlimited",
+      "at": "2026-04-20T16:50:42.564Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "ID:69 | Unlimited",
+      "at": "2026-04-20T16:31:04.439Z"
+    },
+    {
+      "userId": "7156410234",
+      "type": "Buat Panel",
+      "detail": "ID:58 | Unlimited",
+      "at": "2026-04-20T13:32:55.965Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "ID:53 | Unlimited",
+      "at": "2026-04-20T12:56:20.106Z"
+    },
+    {
+      "userId": "8752045472",
+      "type": "Buat Panel",
+      "detail": "ID:50 | 1 GB",
+      "at": "2026-04-20T12:48:32.023Z"
+    },
+    {
+      "userId": "1412280896",
+      "type": "Buat Panel",
+      "detail": "ID:49 | Unlimited",
+      "at": "2026-04-20T12:47:54.350Z"
+    },
+    {
+      "userId": "7396379188",
+      "type": "Buat Panel",
+      "detail": "ID:48 | Unlimited",
+      "at": "2026-04-20T12:43:10.463Z"
+    },
+    {
+      "userId": "8752045472",
+      "type": "Buat Panel",
+      "detail": "ID:47 | Unlimited",
+      "at": "2026-04-20T12:42:47.190Z"
+    },
+    {
+      "userId": "7904503187",
+      "type": "Buat Panel",
+      "detail": "ID:46 | Unlimited",
+      "at": "2026-04-20T12:40:19.299Z"
+    },
+    {
+      "userId": "1412280896",
+      "type": "Buat Panel",
+      "detail": "ID:45 | Unlimited",
+      "at": "2026-04-20T12:20:50.500Z"
+    },
+    {
+      "userId": "7747315822",
+      "type": "Buat Panel",
+      "detail": "ID:43 | Unlimited",
+      "at": "2026-04-20T11:53:27.012Z"
+    },
+    {
+      "userId": "6846732844",
+      "type": "Buat Panel",
+      "detail": "ID:42 | Unlimited",
+      "at": "2026-04-20T11:52:55.156Z"
+    },
+    {
+      "userId": "8693584949",
+      "type": "Buat Panel",
+      "detail": "ID:41 | Unlimited",
+      "at": "2026-04-20T11:49:32.547Z"
+    },
+    {
+      "userId": "6846732844",
+      "type": "Buat Panel",
+      "detail": "ID:40 | Unlimited",
+      "at": "2026-04-20T11:48:54.081Z"
+    },
+    {
+      "userId": "1487139095",
+      "type": "Buat Panel",
+      "detail": "ID:33 | Unlimited",
+      "at": "2026-04-20T11:35:15.220Z"
+    },
+    {
+      "userId": "8171059749",
+      "type": "Buat Panel",
+      "detail": "ID:29 | Unlimited",
+      "at": "2026-04-20T11:18:12.011Z"
+    },
+    {
+      "userId": "7754636730",
+      "type": "Buat Panel",
+      "detail": "ID:28 | Unlimited",
+      "at": "2026-04-20T11:15:20.347Z"
+    },
+    {
+      "userId": "7754636730",
+      "type": "Buat Panel",
+      "detail": "ID:27 | 1 GB",
+      "at": "2026-04-20T11:13:25.973Z"
+    },
+    {
+      "userId": "7754636730",
+      "type": "Buat Panel",
+      "detail": "ID:26 | Unlimited",
+      "at": "2026-04-20T11:12:03.750Z"
+    },
+    {
+      "userId": "8352685799",
+      "type": "Buat Panel",
+      "detail": "ID:25 | Unlimited",
+      "at": "2026-04-20T11:09:27.138Z"
+    },
+    {
+      "userId": "8647327867",
+      "type": "Buat Panel",
+      "detail": "ID:24 | Unlimited",
+      "at": "2026-04-20T11:06:15.664Z"
+    },
+    {
+      "userId": "6366597862",
+      "type": "Buat Panel",
+      "detail": "ID:22 | Unlimited",
+      "at": "2026-04-20T11:04:39.858Z"
+    },
+    {
+      "userId": "7980031318",
+      "type": "Buat Panel",
+      "detail": "ID:17 | Unlimited",
+      "at": "2026-04-20T11:01:52.770Z"
+    },
+    {
+      "userId": "5651646038",
+      "type": "Buat Panel",
+      "detail": "ID:16 | Unlimited",
+      "at": "2026-04-20T10:57:23.096Z"
+    },
+    {
+      "userId": "7075691001",
+      "type": "Buat Panel",
+      "detail": "ID:15 | Unlimited",
+      "at": "2026-04-20T10:57:17.491Z"
+    },
+    {
+      "userId": "8656447208",
+      "type": "Buat Panel",
+      "detail": "ID:14 | Unlimited",
+      "at": "2026-04-20T10:55:31.560Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:13 | 1 GB",
+      "at": "2026-04-20T10:54:05.226Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:12 | Unlimited",
+      "at": "2026-04-20T10:49:56.417Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:11 | 7 GB",
+      "at": "2026-04-20T10:49:26.609Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:10 | 7 GB",
+      "at": "2026-04-20T10:48:55.196Z"
+    },
+    {
+      "userId": "8656447208",
+      "type": "Trial Panel",
+      "detail": "ID:9 | Trial",
+      "at": "2026-04-20T10:47:38.050Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:8 | 5 GB",
+      "at": "2026-04-20T10:47:21.337Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:7 | 4 GB",
+      "at": "2026-04-20T10:45:57.928Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:6 | 5 GB",
+      "at": "2026-04-20T10:44:10.671Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:5 | Unlimited",
+      "at": "2026-04-20T10:42:55.050Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:4 | Unlimited",
+      "at": "2026-04-20T10:41:38.900Z"
+    },
+    {
+      "userId": "6525450582",
+      "type": "Buat Panel",
+      "detail": "ID:3 | Unlimited",
+      "at": "2026-04-20T10:30:58.302Z"
+    }
+  ],
+  "maintenance": {
+    "active": false,
+    "message": "Bot sedang dalam maintenance. Silakan coba lagi nanti."
+  },
+  "audit_logs": [
+    {
+      "actorId": 7075691001,
+      "action": "Buat Panel",
+      "target": "14",
+      "detail": "Unlimited",
+      "at": "2026-04-23T15:13:31.745Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Referral System Dinonaktifkan",
+      "at": "2026-04-23T15:10:06.242Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "13",
+      "detail": "Unlimited",
+      "at": "2026-04-23T14:53:49.198Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Set Limit Reseller",
+      "target": "8128382065",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-23T14:12:42.222Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Set Role reseller",
+      "target": "8128382065",
+      "at": "2026-04-23T14:12:18.029Z"
+    },
+    {
+      "actorId": 7221821145,
+      "action": "Buat Panel",
+      "target": "11",
+      "detail": "Unlimited",
+      "at": "2026-04-23T14:08:48.047Z"
+    },
+    {
+      "actorId": 7605597547,
+      "action": "Buat Panel",
+      "target": "10",
+      "detail": "Unlimited",
+      "at": "2026-04-23T14:06:53.626Z"
+    },
+    {
+      "actorId": 7221821145,
+      "action": "Buat Panel",
+      "target": "9",
+      "detail": "1 GB",
+      "at": "2026-04-23T14:04:37.518Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "8",
+      "detail": "Unlimited",
+      "at": "2026-04-23T14:00:51.520Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "7",
+      "detail": "Unlimited",
+      "at": "2026-04-23T13:48:38.772Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "6",
+      "detail": "Unlimited",
+      "at": "2026-04-23T13:42:12.273Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "4",
+      "detail": "Unlimited",
+      "at": "2026-04-23T13:37:31.603Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Buat Panel",
+      "target": "3",
+      "detail": "Unlimited",
+      "at": "2026-04-23T13:32:51.438Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "8782785006",
+      "at": "2026-04-23T13:30:00.286Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "2",
+      "detail": "Unlimited",
+      "at": "2026-04-23T13:27:47.070Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Referral System Diaktifkan",
+      "at": "2026-04-23T10:39:13.054Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Limit Reseller",
+      "target": "8738082178",
+      "detail": "2 slot | exp: Selamanya",
+      "at": "2026-04-23T10:38:17.738Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Role reseller",
+      "target": "8738082178",
+      "at": "2026-04-23T10:37:56.479Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "6639287870",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-23T07:54:18.725Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "237",
+      "detail": "Unlimited",
+      "at": "2026-04-23T06:01:58.150Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Set Role reseller",
+      "target": "6639287870",
+      "at": "2026-04-23T05:56:28.949Z"
+    },
+    {
+      "actorId": 6698713215,
+      "action": "Buat Panel",
+      "target": "234",
+      "detail": "Unlimited",
+      "at": "2026-04-23T05:44:59.766Z"
+    },
+    {
+      "actorId": 5249047859,
+      "action": "Buat Panel",
+      "target": "232",
+      "detail": "Unlimited",
+      "at": "2026-04-23T04:00:08.090Z"
+    },
+    {
+      "actorId": 8477074154,
+      "action": "Buat Panel",
+      "target": "229",
+      "detail": "Unlimited",
+      "at": "2026-04-23T03:54:19.911Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Role owner",
+      "target": "7075691001",
+      "at": "2026-04-23T00:32:48.561Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Limit Reseller",
+      "target": "7075691001",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-23T00:28:58.326Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Role reseller",
+      "target": "7075691001",
+      "at": "2026-04-23T00:27:38.132Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "8554692306",
+      "at": "2026-04-22T14:45:42.385Z"
+    },
+    {
+      "actorId": 6846732844,
+      "action": "Power restart",
+      "target": "42",
+      "at": "2026-04-22T13:13:23.042Z"
+    },
+    {
+      "actorId": 8477074154,
+      "action": "Power stop",
+      "target": "221",
+      "at": "2026-04-22T11:51:45.637Z"
+    },
+    {
+      "actorId": 8477074154,
+      "action": "Power restart",
+      "target": "221",
+      "at": "2026-04-22T11:51:34.304Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Buat Panel",
+      "target": "224",
+      "detail": "Unlimited",
+      "at": "2026-04-22T11:15:00.011Z"
+    },
+    {
+      "actorId": 8477074154,
+      "action": "Buat Panel",
+      "target": "221",
+      "detail": "Unlimited",
+      "at": "2026-04-22T10:59:00.172Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "8477074154",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-22T10:53:45.281Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "215",
+      "at": "2026-04-22T09:27:10.098Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "215",
+      "detail": "Unlimited",
+      "at": "2026-04-22T09:26:33.859Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "214",
+      "detail": "Unlimited",
+      "at": "2026-04-22T09:20:49.200Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "213",
+      "detail": "Unlimited",
+      "at": "2026-04-22T09:18:47.218Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Rename Server",
+      "target": "208",
+      "detail": "botcellav1",
+      "at": "2026-04-22T08:39:55.569Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Reset Password Panel",
+      "target": "208",
+      "at": "2026-04-22T08:36:32.576Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Reset Password Panel",
+      "target": "208",
+      "at": "2026-04-22T08:31:46.252Z"
+    },
+    {
+      "actorId": 7605597547,
+      "action": "Set Role reseller",
+      "target": "8477074154",
+      "at": "2026-04-22T08:11:40.832Z"
+    },
+    {
+      "actorId": 6658225160,
+      "action": "Power start",
+      "target": "173",
+      "at": "2026-04-22T06:29:57.162Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Power restart",
+      "target": "53",
+      "at": "2026-04-22T06:05:44.382Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Power restart",
+      "target": "53",
+      "at": "2026-04-22T06:02:11.906Z"
+    },
+    {
+      "actorId": 7075691001,
+      "action": "Backup Server",
+      "target": "15",
+      "at": "2026-04-22T05:56:43.781Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "126",
+      "at": "2026-04-22T05:50:25.656Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "170",
+      "at": "2026-04-22T05:48:06.753Z"
+    },
+    {
+      "actorId": 8656447208,
+      "action": "Perpanjang Panel",
+      "target": "14",
+      "detail": "+30 hari",
+      "at": "2026-04-22T05:05:07.836Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Reset Role",
+      "target": "7075691001",
+      "at": "2026-04-22T04:28:27.579Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "209",
+      "at": "2026-04-22T04:01:20.401Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "209",
+      "detail": "Unlimited",
+      "at": "2026-04-22T04:00:45.268Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Buat Panel",
+      "target": "208",
+      "detail": "Unlimited",
+      "at": "2026-04-22T03:12:17.081Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Backup Server",
+      "target": "98",
+      "at": "2026-04-22T03:04:50.900Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Rename Server",
+      "target": "98",
+      "detail": "botcellastore",
+      "at": "2026-04-22T03:02:52.821Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Reset Password Panel",
+      "target": "98",
+      "at": "2026-04-22T03:02:00.130Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Buat Panel",
+      "target": "200",
+      "detail": "Unlimited",
+      "at": "2026-04-21T23:46:21.252Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Role owner",
+      "target": "7075691001",
+      "at": "2026-04-21T23:43:05.220Z"
+    },
+    {
+      "actorId": 1487139095,
+      "action": "Buat Panel",
+      "target": "199",
+      "detail": "Unlimited",
+      "at": "2026-04-21T23:20:19.828Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Set Role owner",
+      "target": "6525450582",
+      "at": "2026-04-21T23:13:47.326Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Unblacklist User",
+      "target": "6525450582",
+      "at": "2026-04-21T23:13:24.258Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Blacklist User",
+      "target": "6525450582",
+      "at": "2026-04-21T23:12:57.241Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "195",
+      "detail": "Unlimited",
+      "at": "2026-04-21T22:44:53.644Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Reset Role",
+      "target": "7075691001",
+      "at": "2026-04-21T22:18:52.131Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "7075691001",
+      "at": "2026-04-21T19:13:43.815Z"
+    },
+    {
+      "actorId": 7605597547,
+      "action": "Buat Panel",
+      "target": "191",
+      "detail": "Unlimited",
+      "at": "2026-04-21T16:32:38.413Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "7605597547",
+      "at": "2026-04-21T16:19:28.716Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "1221536431",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-21T14:58:58.716Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "1221536431",
+      "at": "2026-04-21T14:58:39.228Z"
+    },
+    {
+      "actorId": 6658225160,
+      "action": "Power stop",
+      "target": "171",
+      "at": "2026-04-21T13:36:17.885Z"
+    },
+    {
+      "actorId": 6658225160,
+      "action": "Power stop",
+      "target": "171",
+      "at": "2026-04-21T13:35:51.280Z"
+    },
+    {
+      "actorId": 6658225160,
+      "action": "Buat Panel",
+      "target": "173",
+      "detail": "Unlimited",
+      "at": "2026-04-21T13:28:27.518Z"
+    },
+    {
+      "actorId": 6658225160,
+      "action": "Buat Panel",
+      "target": "171",
+      "detail": "Unlimited",
+      "at": "2026-04-21T13:22:26.773Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "6658225160",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-21T13:20:15.943Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "6658225160",
+      "at": "2026-04-21T13:19:59.298Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "170",
+      "at": "2026-04-21T13:15:29.495Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "170",
+      "detail": "1 GB",
+      "at": "2026-04-21T13:14:56.826Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "161",
+      "at": "2026-04-21T11:56:42.319Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "161",
+      "detail": "Unlimited",
+      "at": "2026-04-21T11:56:01.208Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "8292360182",
+      "at": "2026-04-21T09:07:59.671Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "126",
+      "at": "2026-04-21T07:07:41.515Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Rename Server",
+      "target": "126",
+      "detail": "Bento",
+      "at": "2026-04-21T07:07:13.822Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "126",
+      "detail": "2 GB",
+      "at": "2026-04-21T07:06:45.867Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "124",
+      "detail": "Unlimited",
+      "at": "2026-04-21T06:59:24.032Z"
+    },
+    {
+      "actorId": 8289460864,
+      "action": "Buat Panel",
+      "target": "106",
+      "detail": "Unlimited",
+      "at": "2026-04-21T06:09:56.907Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "8289460864",
+      "at": "2026-04-21T06:07:07.836Z"
+    },
+    {
+      "actorId": 8752045472,
+      "action": "Buat Panel",
+      "target": "103",
+      "detail": "Unlimited",
+      "at": "2026-04-21T05:52:16.041Z"
+    },
+    {
+      "actorId": 7442681348,
+      "action": "Buat Panel",
+      "target": "98",
+      "detail": "Unlimited",
+      "at": "2026-04-21T05:14:48.676Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "76",
+      "detail": "3 GB",
+      "at": "2026-04-21T03:30:56.146Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7442681348",
+      "at": "2026-04-21T01:53:23.156Z"
+    },
+    {
+      "actorId": 5249047859,
+      "action": "Buat Panel",
+      "target": "70",
+      "detail": "Unlimited",
+      "at": "2026-04-20T16:50:42.565Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "5249047859",
+      "at": "2026-04-20T16:48:54.863Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "69",
+      "detail": "Unlimited",
+      "at": "2026-04-20T16:31:04.442Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "1221536431",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-20T14:50:04.472Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "1221536431",
+      "at": "2026-04-20T14:49:44.079Z"
+    },
+    {
+      "actorId": 7156410234,
+      "action": "Buat Panel",
+      "target": "58",
+      "detail": "Unlimited",
+      "at": "2026-04-20T13:32:55.966Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "7156410234",
+      "detail": "50 slot | exp: Selamanya",
+      "at": "2026-04-20T13:29:11.862Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "7156410234",
+      "at": "2026-04-20T13:28:56.180Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7156410234",
+      "at": "2026-04-20T13:28:26.216Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Reset Password Panel",
+      "target": "41",
+      "at": "2026-04-20T13:25:09.143Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "53",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:56:20.109Z"
+    },
+    {
+      "actorId": 8752045472,
+      "action": "Buat Panel",
+      "target": "50",
+      "detail": "1 GB",
+      "at": "2026-04-20T12:48:32.025Z"
+    },
+    {
+      "actorId": 1412280896,
+      "action": "Buat Panel",
+      "target": "49",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:47:54.351Z"
+    },
+    {
+      "actorId": 7396379188,
+      "action": "Buat Panel",
+      "target": "48",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:43:10.467Z"
+    },
+    {
+      "actorId": 8752045472,
+      "action": "Buat Panel",
+      "target": "47",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:42:47.192Z"
+    },
+    {
+      "actorId": 7904503187,
+      "action": "Buat Panel",
+      "target": "46",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:40:19.300Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7396379188",
+      "at": "2026-04-20T12:36:30.634Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7904503187",
+      "at": "2026-04-20T12:35:21.812Z"
+    },
+    {
+      "actorId": 1412280896,
+      "action": "Buat Panel",
+      "target": "45",
+      "detail": "Unlimited",
+      "at": "2026-04-20T12:20:50.502Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "8752045472",
+      "at": "2026-04-20T12:05:52.088Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Simpan Template",
+      "detail": "DM Alfa",
+      "at": "2026-04-20T12:02:28.691Z"
+    },
+    {
+      "actorId": 7747315822,
+      "action": "Buat Panel",
+      "target": "43",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:53:27.013Z"
+    },
+    {
+      "actorId": 6846732844,
+      "action": "Buat Panel",
+      "target": "42",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:52:55.158Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "7747315822",
+      "at": "2026-04-20T11:49:59.148Z"
+    },
+    {
+      "actorId": 8693584949,
+      "action": "Buat Panel",
+      "target": "41",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:49:32.548Z"
+    },
+    {
+      "actorId": 6846732844,
+      "action": "Buat Panel",
+      "target": "40",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:48:54.081Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "8693584949",
+      "at": "2026-04-20T11:46:43.573Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "6846732844",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-20T11:41:19.442Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "6846732844",
+      "at": "2026-04-20T11:41:04.296Z"
+    },
+    {
+      "actorId": 1487139095,
+      "action": "Buat Panel",
+      "target": "33",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:35:15.222Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "1487139095",
+      "at": "2026-04-20T11:26:20.504Z"
+    },
+    {
+      "actorId": 8171059749,
+      "action": "Buat Panel",
+      "target": "29",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:18:12.012Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "6698713215",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-20T11:17:56.836Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "6698713215",
+      "at": "2026-04-20T11:17:32.339Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "1412280896",
+      "at": "2026-04-20T11:17:13.735Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "8171059749",
+      "at": "2026-04-20T11:16:47.739Z"
+    },
+    {
+      "actorId": 7754636730,
+      "action": "Buat Panel",
+      "target": "28",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:15:20.349Z"
+    },
+    {
+      "actorId": 7754636730,
+      "action": "Buat Panel",
+      "target": "27",
+      "detail": "1 GB",
+      "at": "2026-04-20T11:13:25.975Z"
+    },
+    {
+      "actorId": 7754636730,
+      "action": "Buat Panel",
+      "target": "26",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:12:03.751Z"
+    },
+    {
+      "actorId": 8352685799,
+      "action": "Buat Panel",
+      "target": "25",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:09:27.139Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Limit Reseller",
+      "target": "8352685799",
+      "detail": "10 slot | exp: Selamanya",
+      "at": "2026-04-20T11:08:59.716Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role reseller",
+      "target": "8352685799",
+      "at": "2026-04-20T11:08:43.850Z"
+    },
+    {
+      "actorId": 8647327867,
+      "action": "Buat Panel",
+      "target": "24",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:06:15.665Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "8647327867",
+      "at": "2026-04-20T11:05:52.791Z"
+    },
+    {
+      "actorId": 6366597862,
+      "action": "Buat Panel",
+      "target": "22",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:04:39.865Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7754636730",
+      "at": "2026-04-20T11:04:17.356Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7221821145",
+      "at": "2026-04-20T11:03:36.651Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "6366597862",
+      "at": "2026-04-20T11:03:26.341Z"
+    },
+    {
+      "actorId": 7980031318,
+      "action": "Buat Panel",
+      "target": "17",
+      "detail": "Unlimited",
+      "at": "2026-04-20T11:01:52.771Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7980031318",
+      "at": "2026-04-20T10:59:12.502Z"
+    },
+    {
+      "actorId": 5651646038,
+      "action": "Buat Panel",
+      "target": "16",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:57:23.097Z"
+    },
+    {
+      "actorId": 7075691001,
+      "action": "Buat Panel",
+      "target": "15",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:57:17.492Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role premium",
+      "target": "7075691001",
+      "at": "2026-04-20T10:55:32.231Z"
+    },
+    {
+      "actorId": 8656447208,
+      "action": "Buat Panel",
+      "target": "14",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:55:31.561Z"
+    },
+    {
+      "actorId": 8656447208,
+      "action": "Backup Server",
+      "target": "9",
+      "at": "2026-04-20T10:54:25.214Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "13",
+      "detail": "1 GB",
+      "at": "2026-04-20T10:54:05.346Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "8656447208",
+      "at": "2026-04-20T10:51:47.213Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Set Role owner",
+      "target": "5651646038",
+      "at": "2026-04-20T10:51:24.356Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Trial Panel Dinonaktifkan",
+      "at": "2026-04-20T10:50:36.436Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Referral System Dinonaktifkan",
+      "at": "2026-04-20T10:50:36.018Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "12",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:49:56.418Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "11",
+      "detail": "7 GB",
+      "at": "2026-04-20T10:49:26.609Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "10",
+      "detail": "7 GB",
+      "at": "2026-04-20T10:48:55.197Z"
+    },
+    {
+      "actorId": 8656447208,
+      "action": "Trial Panel",
+      "target": "9",
+      "detail": "Trial",
+      "at": "2026-04-20T10:47:38.052Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "8",
+      "detail": "5 GB",
+      "at": "2026-04-20T10:47:21.338Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "7",
+      "detail": "4 GB",
+      "at": "2026-04-20T10:45:57.928Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "6",
+      "detail": "5 GB",
+      "at": "2026-04-20T10:44:10.675Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "5",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:42:55.050Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "4",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:41:38.900Z"
+    },
+    {
+      "actorId": 6525450582,
+      "action": "Buat Panel",
+      "target": "3",
+      "detail": "Unlimited",
+      "at": "2026-04-20T10:30:58.303Z"
+    }
+  ],
+  "daily_counts": {
+    "login_7331597669:2026-4-23": 1,
+    "login_8436338353:2026-4-23": 1,
+    "login_1487139095:2026-4-23": 1,
+    "login_8289460864:2026-4-23": 1,
+    "login_7221821145:2026-4-23": 1,
+    "login_8477074154:2026-4-23": 1,
+    "8477074154:2026-4-23": 1,
+    "5249047859:2026-4-23": 1,
+    "login_6698713215:2026-4-23": 1,
+    "login_6525450582:2026-4-23": 1,
+    "login_8693584949:2026-4-23": 1,
+    "6698713215:2026-4-23": 1,
+    "8693584949:2026-4-23": 1,
+    "login_6639287870:2026-4-23": 1,
+    "login_1221536431:2026-4-23": 1,
+    "login_8292360182:2026-4-23": 1,
+    "login_8738082178:2026-4-23": 1,
+    "login_6658225160:2026-4-23": 1,
+    "login_8554692306:2026-4-23": 1,
+    "login_7605597547:2026-4-23": 1,
+    "login_8782785006:2026-4-23": 1,
+    "6525450582:2026-4-23": 1,
+    "login_7442681348:2026-4-23": 1,
+    "7442681348:2026-4-23": 1,
+    "login_5651646038:2026-4-23": 1,
+    "5651646038:2026-4-23": 4,
+    "login_7904503187:2026-4-23": 1,
+    "7221821145:2026-4-23": 2,
+    "7605597547:2026-4-23": 1,
+    "7904503187:2026-4-23": 1,
+    "login_7075691001:2026-4-23": 1,
+    "7075691001:2026-4-23": 1,
+    "login_1102371751:2026-4-23": 1
+  },
+  "last_daily_report": null,
+  "trial_enabled": false,
+  "referral_enabled": false,
+  "tickets": [],
+  "resource_alerts": [],
+  "auto_backup": {
+    "enabled": false,
+    "interval_hours": 6,
+    "last_run": null
+  },
+  "points": {
+    "1102371751": 1,
+    "1221536431": 1,
+    "1412280896": 11,
+    "1487139095": 14,
+    "8656447208": 10,
+    "6366597862": 6,
+    "7075691001": 13,
+    "6525450582": 64,
+    "7221821145": 13,
+    "5651646038": 34,
+    "8289460864": 19,
+    "7980031318": 6,
+    "7754636730": 16,
+    "8647327867": 6,
+    "8352685799": 5,
+    "8171059749": 6,
+    "8693584949": 44,
+    "6846732844": 12,
+    "7747315822": 6,
+    "7904503187": 34,
+    "8752045472": 16,
+    "7396379188": 5,
+    "7156410234": 6,
+    "7442681348": 19,
+    "8021702395": 1,
+    "5249047859": 11,
+    "6698713215": 7,
+    "8419934816": 1,
+    "8782785006": 3,
+    "6658225160": 12,
+    "7605597547": 13,
+    "8725015135": 1,
+    "8477074154": 12,
+    "7331597669": 1,
+    "8436338353": 1,
+    "6639287870": 1,
+    "8292360182": 1,
+    "8738082178": 1,
+    "8554692306": 1
+  },
+  "templates": [
+    {
+      "name": "DM Alfa",
+      "nest_id": 5,
+      "egg_id": 15,
+      "egg_name": "Bot Whatsap/Telegram",
+      "nest_name": "Bot WhatsapdanTelegram",
+      "plan_name": "Unlimited",
+      "plan_index": 10,
+      "panel_type": "admin",
+      "created_at": "2026-04-20T12:02:28.689Z"
+    }
+  ],
+  "whitelist": {
+    "enabled": false,
+    "users": []
+  },
+  "scheduled_maintenance": {
+    "enabled": false,
+    "start": "02:00",
+    "end": "04:00",
+    "days": [],
+    "message": "Bot sedang maintenance terjadwal."
+  },
+  "friends": {},
+  "reviews": [],
+  "snapshots": {},
+  "uptime_history": {},
+  "bandwidth_history": {},
+  "resource_history": {},
+  "device_logs": {
+    "777000": {
+      "first_seen": 1776955790482,
+      "language_code": "",
+      "username": "",
+      "chat_type": "supergroup",
+      "last_seen": 1776955790482
+    },
+    "1412280896": {
+      "first_seen": 1776681030642,
+      "language_code": "id",
+      "username": "perzxlyoffc",
+      "chat_type": "supergroup",
+      "last_seen": 1776681030642
+    },
+    "7075691001": {
+      "first_seen": 1776681030644,
+      "language_code": "id",
+      "username": "airamlbb",
+      "chat_type": "supergroup",
+      "last_seen": 1776932583359
+    },
+    "7442681348": {
+      "first_seen": 1776681030652,
+      "language_code": "id",
+      "username": "cellzz13",
+      "chat_type": "supergroup",
+      "last_seen": 1776830611531
+    },
+    "7980031318": {
+      "first_seen": 1776681030658,
+      "language_code": "id",
+      "username": "Rayenzz22",
+      "chat_type": "supergroup",
+      "last_seen": 1776782089982
+    },
+    "7221821145": {
+      "first_seen": 1776681520580,
+      "language_code": "id",
+      "username": "yollstoreww",
+      "chat_type": "supergroup",
+      "last_seen": 1776947346430
+    },
+    "8656447208": {
+      "first_seen": 1776682287606,
+      "language_code": "id",
+      "username": "kalzzz2",
+      "chat_type": "supergroup",
+      "last_seen": 1776753405603
+    },
+    "5651646038": {
+      "first_seen": 1776682293626,
+      "language_code": "id",
+      "username": "Muh4ldi",
+      "chat_type": "supergroup",
+      "last_seen": 1776953868956
+    },
+    "6525450582": {
+      "first_seen": 1776682502528,
+      "language_code": "id",
+      "username": "ALFA20L",
+      "chat_type": "supergroup",
+      "last_seen": 1776697312758
+    },
+    "8289460864": {
+      "first_seen": 1776682623732,
+      "language_code": "id",
+      "username": "Vourtix47",
+      "chat_type": "supergroup",
+      "last_seen": 1776940475866
+    },
+    "7156410234": {
+      "first_seen": 1776691600269,
+      "language_code": "",
+      "username": "Gungwlee",
+      "chat_type": "supergroup",
+      "last_seen": 1776691600269
+    },
+    "8647327867": {
+      "first_seen": 1776694971416,
+      "language_code": "id",
+      "username": "zenoffcial1",
+      "chat_type": "supergroup",
+      "last_seen": 1776771177161
+    },
+    "5249047859": {
+      "first_seen": 1776703708021,
+      "language_code": "",
+      "username": "parulkun",
+      "chat_type": "supergroup",
+      "last_seen": 1776786909144
+    },
+    "8693584949": {
+      "first_seen": 1776752601202,
+      "language_code": "id",
+      "username": "SkyRixzofficial",
+      "chat_type": "supergroup",
+      "last_seen": 1776921977630
+    },
+    "8419934816": {
+      "first_seen": 1776755103070,
+      "language_code": "id",
+      "username": "",
+      "chat_type": "supergroup",
+      "last_seen": 1776755103070
+    },
+    "8782785006": {
+      "first_seen": 1776762580207,
+      "language_code": "id",
+      "username": "",
+      "chat_type": "supergroup",
+      "last_seen": 1776762608332
+    },
+    "7396379188": {
+      "first_seen": 1776779621513,
+      "language_code": "id",
+      "username": "Bangriaannn79",
+      "chat_type": "supergroup",
+      "last_seen": 1776946629940
+    },
+    "7605597547": {
+      "first_seen": 1776788279406,
+      "language_code": "",
+      "username": "Reyyzvstecu",
+      "chat_type": "supergroup",
+      "last_seen": 1776788279406
+    },
+    "8477074154": {
+      "first_seen": 1776845008033,
+      "language_code": "",
+      "username": "khyxxSTR",
+      "chat_type": "supergroup",
+      "last_seen": 1776855415006
+    },
+    "7747315822": {
+      "first_seen": 1776856701440,
+      "language_code": "id",
+      "username": "putraaaoffc",
+      "chat_type": "supergroup",
+      "last_seen": 1776856701440
+    },
+    "8554692306": {
+      "first_seen": 1776868843472,
+      "language_code": "",
+      "username": "HengkerWiibuTZY",
+      "chat_type": "supergroup",
+      "last_seen": 1776868843472
+    },
+    "6639287870": {
+      "first_seen": 1776940415353,
+      "language_code": "ms",
+      "username": "rezastore_stok",
+      "chat_type": "group",
+      "last_seen": 1776940415550
+    },
+    "8738082178": {
+      "first_seen": 1776940509380,
+      "language_code": "",
+      "username": "",
+      "chat_type": "group",
+      "last_seen": 1776940509380
+    },
+    "7560411532": {
+      "first_seen": 1776948631662,
+      "language_code": "",
+      "username": "",
+      "chat_type": "group",
+      "last_seen": 1776948631662
+    },
+    "6450746885": {
+      "first_seen": 1776948959265,
+      "language_code": "",
+      "username": "derrs111",
+      "chat_type": "group",
+      "last_seen": 1776948959265
+    },
+    "8128382065": {
+      "first_seen": 1776953431419,
+      "language_code": "",
+      "username": "F4rzV",
+      "chat_type": "supergroup",
+      "last_seen": 1776954159351
+    }
+  },
+  "down_counter": {},
+  "user_lang": {},
+  "user_theme": {},
+  "egg_presets": [],
+  "important_backups": {},
+  "rate_limits": {
+    "1412280896": [
+      1776681030641
+    ],
+    "7075691001": [
+      1776738767115
+    ],
+    "7442681348": [
+      1776711039769
+    ],
+    "7980031318": [
+      1776694951288
+    ],
+    "7221821145": [
+      1776691736686
+    ],
+    "8656447208": [
+      1776731134923
+    ],
+    "5651646038": [
+      1776738050088
+    ],
+    "6525450582": [
+      1776697312755
+    ],
+    "8289460864": [
+      1776682623731
+    ],
+    "7156410234": [
+      1776691600267
+    ],
+    "8647327867": [
+      1776694971414
+    ],
+    "5249047859": [
+      1776703708018
+    ]
+  },
+  "miner_alerts": {},
+  "achievements": {},
+  "last_seen": {
+    "777000": 1776955790482,
+    "1412280896": 1776681030642,
+    "7075691001": 1776932583359,
+    "7442681348": 1776830611531,
+    "7980031318": 1776782089982,
+    "7221821145": 1776947346430,
+    "8656447208": 1776753405603,
+    "5651646038": 1776953868956,
+    "6525450582": 1776697312759,
+    "8289460864": 1776940475866,
+    "7156410234": 1776691600269,
+    "8647327867": 1776771177161,
+    "5249047859": 1776786909144,
+    "8693584949": 1776921977630,
+    "8419934816": 1776755103070,
+    "8782785006": 1776762608332,
+    "7396379188": 1776946629940,
+    "7605597547": 1776788279406,
+    "8477074154": 1776855415006,
+    "7747315822": 1776856701443,
+    "8554692306": 1776868843472,
+    "6639287870": 1776940415550,
+    "8738082178": 1776940509380,
+    "7560411532": 1776948631662,
+    "6450746885": 1776948959265,
+    "8128382065": 1776954159351
+  }
+}
