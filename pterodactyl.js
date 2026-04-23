@@ -7,17 +7,17 @@ const config = require("./config");
 // memilih panel mana yang dipakai (Server 1 = default, Server 2 = panel kedua).
 function _cfg(n = 1) {
   const num = Number(n) || 1;
-  if (num === 2) {
+  if (num === 2 && config.PANEL_URL2) {
     return {
       num: 2,
-      base: config.PANEL_URL2 || config.PANEL_URL,
+      base: config.PANEL_URL2,
       app: {
-        Authorization: `Bearer ${config.PTLA2 || config.PTLA}`,
+        Authorization: `Bearer ${config.PTLA2}`,
         "Content-Type": "application/json",
         Accept: "Application/vnd.pterodactyl.v1+json",
       },
       client: {
-        Authorization: `Bearer ${config.PTLC2 || config.PTLC}`,
+        Authorization: `Bearer ${config.PTLC2}`,
         "Content-Type": "application/json",
         Accept: "Application/vnd.pterodactyl.v1+json",
       },
@@ -46,6 +46,7 @@ function apiOk(fn, detail = "") {
 function apiFail(fn, err, detail = "") {
   const msg = err?.response?.data?.errors?.[0]?.detail || err?.response?.data || err?.message || err;
   logger.error("PTERO", `❌ ${fn}${detail ? " | " + detail : ""} → ${msg}`, err instanceof Error ? err : null);
+  throw err;
 }
 
 // ─── Locations ────────────────────────────────────────────────────────────────
@@ -56,7 +57,7 @@ async function getLocations(serverNum = 1) {
     const r = await axios.get(`${c.base}/api/application/locations`, { headers: c.app });
     apiOk("getLocations", `srv${c.num} ${r.data.data.length} lokasi`);
     return r.data.data;
-  } catch (e) { apiFail("getLocations", e, `srv${c.num}`); return []; }
+  } catch (e) { try { apiFail("getLocations", e, `srv${c.num}`); } catch {} return []; }
 }
 
 // ─── Nests & Eggs ─────────────────────────────────────────────────────────────
@@ -67,7 +68,7 @@ async function getNests(serverNum = 1) {
     const r = await axios.get(`${c.base}/api/application/nests`, { headers: c.app });
     apiOk("getNests", `srv${c.num} ${r.data.data.length} nest`);
     return r.data.data;
-  } catch (e) { apiFail("getNests", e, `srv${c.num}`); return []; }
+  } catch (e) { try { apiFail("getNests", e, `srv${c.num}`); } catch {} return []; }
 }
 
 async function getEggs(nestId, serverNum = 1) {
@@ -76,7 +77,7 @@ async function getEggs(nestId, serverNum = 1) {
     const r = await axios.get(`${c.base}/api/application/nests/${nestId}/eggs?include=variables`, { headers: c.app });
     apiOk("getEggs", `srv${c.num} nestId=${nestId} | ${r.data.data.length} egg`);
     return r.data.data;
-  } catch (e) { apiFail("getEggs", e, `srv${c.num} nestId=${nestId}`); return []; }
+  } catch (e) { try { apiFail("getEggs", e, `srv${c.num} nestId=${nestId}`); } catch {} return []; }
 }
 
 // ─── Users ────────────────────────────────────────────────────────────────────
@@ -110,7 +111,7 @@ async function getAllUsers(serverNum = 1) {
     const r = await axios.get(`${c.base}/api/application/users`, { headers: c.app });
     apiOk("getAllUsers", `srv${c.num} ${r.data.data.length} user`);
     return r.data.data;
-  } catch (e) { apiFail("getAllUsers", e, `srv${c.num}`); return []; }
+  } catch (e) { try { apiFail("getAllUsers", e, `srv${c.num}`); } catch {} return []; }
 }
 
 // ─── Servers ──────────────────────────────────────────────────────────────────
@@ -200,7 +201,7 @@ async function listServers(serverNum = 1) {
     }
     apiOk("listServers", `srv${c.num} ${all.length} server (${page} halaman)`);
     return all;
-  } catch (e) { apiFail("listServers", e, `srv${c.num}`); return []; }
+  } catch (e) { try { apiFail("listServers", e, `srv${c.num}`); } catch {} return []; }
 }
 
 async function suspendServer(serverId, serverNum = 1) {
@@ -285,7 +286,7 @@ async function getBackups(identifier, serverNum = 1) {
     const r = await axios.get(`${c.base}/api/client/servers/${identifier}/backups`, { headers: c.client });
     if (r.status === 200) { apiOk("getBackups", `srv${c.num} ${identifier} → ${r.data.data.length} backup`); return r.data.data; }
     return [];
-  } catch (e) { apiFail("getBackups", e, `srv${c.num} identifier=${identifier}`); return []; }
+  } catch (e) { try { apiFail("getBackups", e, `srv${c.num} identifier=${identifier}`); } catch {} return []; }
 }
 
 // ─── Schedules (Cron) ─────────────────────────────────────────────────────────
@@ -296,7 +297,7 @@ async function getSchedules(identifier, serverNum = 1) {
     const r = await axios.get(`${c.base}/api/client/servers/${identifier}/schedules`, { headers: c.client });
     if (r.status === 200) { apiOk("getSchedules", `srv${c.num} ${identifier} → ${r.data.data.length} jadwal`); return r.data.data; }
     return [];
-  } catch (e) { apiFail("getSchedules", e, `srv${c.num} identifier=${identifier}`); return []; }
+  } catch (e) { try { apiFail("getSchedules", e, `srv${c.num} identifier=${identifier}`); } catch {} return []; }
 }
 
 async function createSchedule(identifier, { name, minute, hour, dayOfWeek, dayOfMonth, month, isActive = true }, serverNum = 1) {
@@ -373,7 +374,7 @@ async function getNodes(serverNum = 1) {
     const r = await axios.get(`${c.base}/api/application/nodes`, { headers: c.app });
     apiOk("getNodes", `srv${c.num} ${r.data.data.length} node`);
     return r.data.data;
-  } catch (e) { apiFail("getNodes", e, `srv${c.num}`); return []; }
+  } catch (e) { try { apiFail("getNodes", e, `srv${c.num}`); } catch {} return []; }
 }
 
 async function getNodeStatus(nodeAttrs, serverNum = 1) {

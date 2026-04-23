@@ -318,12 +318,13 @@ function applyAll(bot, db, ptero, logger, config) {
     const panel = db.getPanelByServerId(serverId);
     if (!panel) return ctx.answerCbQuery("❌ Server tidak ditemukan.", { show_alert: true });
     if (panel.ownerUserId !== String(uid) && !isOwner(uid)) return ctx.answerCbQuery("🔒 Bukan punya kamu.", { show_alert: true });
+
+    await ctx.answerCbQuery(`⏳ Mengirim ${action.toUpperCase()}...`);
     try {
       await ptero.sendPowerAction(serverId, action, psn(panel));
-      await ctx.answerCbQuery(`✅ ${action.toUpperCase()} dikirim!`);
       logger.event("QUICK_ACTION", `User:${uid} ${action} server:${serverId}`);
     } catch (e) {
-      await ctx.answerCbQuery(`❌ Gagal: ${e.message}`, { show_alert: true });
+      await ctx.reply(`❌ Gagal mengirim ${action}: ${e.message}`);
     }
   });
 
@@ -333,11 +334,15 @@ function applyAll(bot, db, ptero, logger, config) {
     const uid = ctx.from.id;
     const panel = db.getPanelByServerId(serverId);
     if (!panel || (panel.ownerUserId !== String(uid) && !isOwner(uid))) return ctx.answerCbQuery("❌ Bukan milik kamu.", { show_alert: true });
+
+    await ctx.answerCbQuery("⏳ Menyimpan snapshot...");
     try {
       const details = await ptero.getServerDetails(serverId, psn(panel));
       db.saveSnapshot(serverId, "", { details, savedAt: Date.now() });
-      await ctx.answerCbQuery(`📸 ${tx(uid, "snapshot_saved")}`);
-    } catch (e) { await ctx.answerCbQuery(`❌ ${e.message}`, { show_alert: true }); }
+      await ctx.reply(`📸 ${tx(uid, "snapshot_saved")}`);
+    } catch (e) {
+      await ctx.reply(`❌ Gagal simpan snapshot: ${e.message}`);
+    }
   });
 
   // ─── Backup important toggle (#30) ───────────────────────────────────────
@@ -428,6 +433,7 @@ function applyAll(bot, db, ptero, logger, config) {
         if (p.suspended) continue;
         try {
           const details = await ptero.getServerDetails(p.server_id, psn(p));
+          if (!details) continue; // Skip if not found or error
           const startup = (details?.attributes?.container?.startup_command || "").toLowerCase();
           const env = JSON.stringify(details?.attributes?.container?.environment || {}).toLowerCase();
           const blob = startup + " " + env;
@@ -444,7 +450,12 @@ function applyAll(bot, db, ptero, logger, config) {
             // Notify victim user
             bot.telegram.sendMessage(p.userId, tx(p.userId, "miner_detected") + `\n\nServer: \`${p.server_id}\``, { parse_mode: "Markdown" }).catch(() => {});
           }
-        } catch (_) {}
+        } catch (e) {
+          if (e?.response?.status === 404) {
+            logger.warn("MINER_SCAN", `Server ${p.server_id} not found on panel, removing record.`);
+            db.deletePanelRecord(p.userId, p.server_id);
+          }
+        }
       }
     } catch (e) { logger.error("MINER_SCAN", e.message); }
   }
@@ -460,8 +471,8 @@ function applyAll(bot, db, ptero, logger, config) {
         if (p.suspended || p.expired) continue;
         try {
           const res = await ptero.getServerResources(p.server_identifier || p.server_id, psn(p));
-          const a = res?.attributes;
-          if (!a) continue;
+          if (!res) continue;
+          const a = res; // getServerResources in pterodactyl.js already returns attributes
           const state = a.current_state; // running/offline/starting
           const isUp = state === "running";
 
@@ -517,7 +528,12 @@ function applyAll(bot, db, ptero, logger, config) {
           } else {
             db.resetDownCounter(p.server_id);
           }
-        } catch (_) {}
+        } catch (e) {
+          if (e?.response?.status === 404) {
+            logger.warn("MONITOR_ALL", `Server ${p.server_id} not found on panel, removing record.`);
+            db.deletePanelRecord(p.userId, p.server_id);
+          }
+        }
       }
     } catch (e) { logger.error("MONITOR_ALL", e.message); }
   }
