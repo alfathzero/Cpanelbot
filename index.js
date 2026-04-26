@@ -1,3 +1,4 @@
+require("dotenv").config();
 const { Telegraf, Markup } = require("telegraf");
 const { message } = require("telegraf/filters");
 const os = require("os");
@@ -58,7 +59,13 @@ function allowedServers(role) {
   const access = (config.SERVER_ACCESS || {});
   const list = Array.isArray(access[role]) ? access[role] : [1];
   // Pastikan unik dan minimal 1 entri
-  const out = Array.from(new Set(list.map(n => Number(n)))).filter(n => n === 1 || n === 2);
+  let out = Array.from(new Set(list.map(n => Number(n)))).filter(n => n === 1 || n === 2);
+
+  // Filter out Server 2 if not configured
+  if (!config.PANEL_URL2 || !config.PTLA2) {
+    out = out.filter(n => n !== 2);
+  }
+
   return out.length ? out : [1];
 }
 
@@ -3276,7 +3283,7 @@ function sendStats(ctx) { ctx.reply(buildStatsText(), { parse_mode: "HTML", ...b
 async function sendStatsEdit(ctx) { return safeEdit(ctx, buildStatsText(), { parse_mode: "HTML", ...backKeyboard() }); }
 
 async function buildNodesText() {
-  const targets = config.PTLA2 && config.PTLC2 ? [1, 2] : [1];
+  const targets = config.PTLA2 && config.PTLC2 && config.PANEL_URL2 ? [1, 2] : [1];
   let text = "";
   let total = 0;
   for (const sn of targets) {
@@ -4218,7 +4225,12 @@ async function checkServerDown() {
     let stats;
     try {
       stats = await ptero.getServerResources(identifier, psn(panel));
-    } catch { continue; }
+    } catch (e) {
+      if (e?.response?.status === 404) {
+        db.deletePanelRecord(panel.userId, panel.server_id);
+      }
+      continue;
+    }
 
     const currentState = stats?.current_state ?? null;
     if (!currentState) continue;
@@ -4361,7 +4373,7 @@ async function checkNodeStatus() {
   if (!config.NODE_CHECK_INTERVAL_MINUTES || config.NODE_CHECK_INTERVAL_MINUTES <= 0) return;
   logger.sys("NODE_CHECK", "Mengecek status semua node...");
   try {
-    const targets = config.PTLA2 && config.PTLC2 ? [1, 2] : [1];
+    const targets = config.PTLA2 && config.PTLC2 && config.PANEL_URL2 ? [1, 2] : [1];
     for (const sn of targets) {
     const nodes = await ptero.getNodes(sn);
     for (const n of nodes) {
@@ -4456,7 +4468,15 @@ async function checkOverResource(manualTrigger = false, triggerUserId = null) {
     const activePanels = allPanels.filter(p => p.server_identifier && !p.expired && !p.suspended);
     for (const panel of activePanels) {
       if (!panel.server_identifier) continue;
-      const stats = await ptero.getServerResources(panel.server_identifier, psn(panel));
+      let stats;
+      try {
+        stats = await ptero.getServerResources(panel.server_identifier, psn(panel));
+      } catch (e) {
+        if (e?.response?.status === 404) {
+          db.deletePanelRecord(panel.userId, panel.server_id);
+        }
+        continue;
+      }
       if (!stats) continue;
 
       const rss = stats.resources || {};

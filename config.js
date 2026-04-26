@@ -1,5 +1,5 @@
 module.exports = {
-  BOT_TOKEN: "8680954162:AAFsSDp_SgPCQR_DxFLy9-batn38ClxHaWY",
+  BOT_TOKEN: process.env.BOT_TOKEN,
 
   // ─── Identitas Bot ────────────────────────────────────────────────────────
   BOT_NAME: "Pterodactyl Panel Bot",
@@ -18,14 +18,14 @@ module.exports = {
   // ─── Server Panel ─────────────────────────────────────────────────────────
   // Server 1 = panel utama (legacy, dipakai semua role)
   // Server 2 = panel kedua (hanya owner secara default — lihat SERVER_ACCESS)
-  PTLA: "ptla_wIKF8JWImdTjGEIU2BxK4nYtdrXrh48QdOXm4hnNpPK",
-  PTLC: "ptlc_3iBCDQveBh2deWC3Z3pYzUf0YQ6R9YxicPqU11tiiEf",
-  PANEL_URL: "https://alfamarketoffials.alfa-lyneen.my.id",
+  PTLA: process.env.PTLA,
+  PTLC: process.env.PTLC,
+  PANEL_URL: process.env.PANEL_URL,
 
   // Konfigurasi Server 2 (isi kalau pakai server kedua)
-  PTLA2: "ptla_p3fOUrSqcowE3Bw2mUji1K9gFlanqlsrurwC8AsuEcE",
-  PTLC2: "ptlc_TrG5PZdZl79lxuIUaE0TgOwBcdAcGA4yCS5rMX7sGwv",
-  PANEL_URL2: "https://alfamarket-official.alfamarket2.my.id",
+  PTLA2: process.env.PTLA2,
+  PTLC2: process.env.PTLC2,
+  PANEL_URL2: process.env.PANEL_URL2,
 
   // Nama tampilan tiap server
   SERVER_NAMES: {
@@ -155,7 +155,7 @@ module.exports = {
   // Port untuk dashboard web (0 = nonaktifkan, contoh: 8080 atau 3000)
   // Akses: http://ip-server-kamu:DASHBOARD_PORT  — login pakai DASHBOARD_PASSWORD
   DASHBOARD_PORT: 8080,
-  DASHBOARD_PASSWORD: "ganti_password_ini",
+  DASHBOARD_PASSWORD: process.env.DASHBOARD_PASSWORD || "ganti_password_ini",
 
   // ─── Warna Tombol Dashboard Web ───────────────────────────────────────────
   // Warna bisa diisi kode hex (#rrggbb), rgb(), atau nama warna CSS
